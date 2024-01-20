@@ -1,8 +1,8 @@
-    # Credit @LazyDeveloper.
+    # Credit @NGROCKER.
     # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
+        # Born to make history @NGROCKER !
 
-    # Thank you LazyDeveloper for helping us in this Journey
+    # Thank you NGROCKER for helping us in this Journey
 from pyrogram import Client, filters
 from database.users_chats_db import db
 

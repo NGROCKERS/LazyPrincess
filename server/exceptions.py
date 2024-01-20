@@ -1,11 +1,11 @@
-    # Credit @LazyDeveloper.
+    # Credit @NGROCKER.
     # Please Don't remove credit.
-    # Born to make history @LazyDeveloper !
+    # Born to make history @NGROCKER !
 
     # Thank you LazyDeveloper for helping us in this Journey
-    # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
+    # 🥰  Thank you for giving me credit @NGROCKER  🥰
     # thanks Adarsh Goel for Server Routing
-    # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+    # for any error please contact me -> telegram @NGROCKER or insta @ADARSHMEDIAS
 
 class InvalidHash(Exception):
     message = "Invalid hash"

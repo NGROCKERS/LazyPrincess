@@ -1,10 +1,10 @@
-# Credit @LazyDeveloper.
+# Credit @NGROCKER.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# Born to make history @NGROCKER !
+# Thank you NGROCKER for helping us in this Journey
+# 🥰  Thank you for giving me credit @NGROCKERr  🥰
+# for any error please contact me -> telegram @NGROCKER or insta @NGROCKER 
+# rip paid developers 🤣 - >> No need to buy paid source code while @NGROCKER is here 😍😍
 def humanbytes(size):
     # https://stackoverflow.com/a/49361727/4723940
     # 2**10 = 1024

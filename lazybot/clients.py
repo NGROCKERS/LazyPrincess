@@ -1,11 +1,11 @@
-    # Credit @LazyDeveloper.
+    # Credit @NGROCKER.
     # Please Don't remove credit.
-    # Born to make history @LazyDeveloper !
+    # Born to make history @NGROCKER !
 
-    # Thank you LazyDeveloper for helping us in this Journey
-    # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
+    # Thank you NGROCKER for helping us in this Journey
+    # 🥰  Thank you for giving me credit @NGROCKER  🥰
 
-    # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+    # for any error please contact me -> telegram@NGROCKER or insta @ADARSHMEDIAS
 import asyncio
 import logging
 from info import *

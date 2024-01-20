@@ -1,5 +1,5 @@
-# with Love @LazyDeveloperr 💘
-# Subscribe YT @LazyDeveloperr - to learn more about this for free...
+# with Love @NGROCKER 💘
+# Subscribe YT @ADARSHMEDIAS - to learn more about this for free...
 
 import random
 import string
